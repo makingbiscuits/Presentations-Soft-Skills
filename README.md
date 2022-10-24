@@ -5,8 +5,10 @@
 
 <a href = 'https://datastudio.google.com/reporting/8afb9be7-d1f3-4c62-9c97-9363a4507ced
 '> The dashboard with visualisations for Executive department.</a> 
+
 <a href = 'https://datastudio.google.com/reporting/25da252e-365c-4cf5-8329-07f13146c942
 '> The dashboard with visualisations for HR department.</a> 
+
 The PowerPoint slides. It explains the main insights of the analysis for both departments.
 
 :rocket: Looker Studio, SQL (BigQuery), Google Sheets, PowerPoint
